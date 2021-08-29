@@ -1,0 +1,4 @@
+#geckodriver needs to be in folder
+geckodriver.exe
+geckodriver.log   
+result.png
